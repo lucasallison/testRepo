@@ -1,11 +1,5 @@
 this file is made to test git
 
-asdadsf
-edit edit
-
-new new
-
-two two 
-
-
-three three (acutally two)
+one one
+two two
+three three
