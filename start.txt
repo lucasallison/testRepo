@@ -1,10 +1,7 @@
-this file is made to test git
-a edit in the new branch
-one one
-two two
-three three
+an edit in this file 
 
-edit for test
-a new edit
 
-last
+
+second edti 
+test
+test something
